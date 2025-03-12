@@ -1,1 +1,1 @@
-from .paymet import Paymet
+from .payments import Payment

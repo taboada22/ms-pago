@@ -1,1 +1,0 @@
-from .paymet import paymet

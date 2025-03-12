@@ -1,1 +1,1 @@
-from .paymet_repository import PaymetRepository
+from .payments import PaymentRepository
